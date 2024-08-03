@@ -1,4 +1,4 @@
-# Musicify
+# Melody
 Music app
 
 This is a Music Sharing App, made with MERN stack. For running this app on your local machine, you have to clone this repo in your device and, 
